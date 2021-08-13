@@ -1,4 +1,4 @@
-<!-- Space: BASE-TEMPLATE -->
+<!-- Space: HELM-CHARTS -->
 <!-- Title: Releasing -->
 
 # Releasing
