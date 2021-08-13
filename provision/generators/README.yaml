@@ -26,17 +26,17 @@ github_repo: hadenlabs/helm-charts
 # Badges to display
 badges:
   - name: Latest Release
-    image: https://img.shields.io/github/release/hadenlabs/action-pre-commit
-    url: https://github.com/hadenlabs/action-pre-commit/releases
+    image: https://img.shields.io/github/release/hadenlabs/helm-charts
+    url: https://github.com/hadenlabs/helm-charts/releases
   - name: Lint
-    image: https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/lint-code
-    url: https://github.com/hadenlabs/action-pre-commit/actions?workflow=lint-code
+    image: https://img.shields.io/github/workflow/status/hadenlabs/helm-charts/lint-code
+    url: https://github.com/hadenlabs/helm-charts/actions?workflow=lint-code
   - name: CI
-    image: https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/ci
-    url: https://github.com/hadenlabs/action-pre-commit/actions?workflow=ci
+    image: https://img.shields.io/github/workflow/status/hadenlabs/helm-charts/ci
+    url: https://github.com/hadenlabs/helm-charts/actions?workflow=ci
   - name: Test
-    image: https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/test
-    url: https://github.com/hadenlabs/action-pre-commit/actions?workflow=test
+    image: https://img.shields.io/github/workflow/status/hadenlabs/helm-charts/test
+    url: https://github.com/hadenlabs/helm-charts/actions?workflow=test
   - name: Conventional Commits
     image: https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow
     url: https://conventionalcommits.org
