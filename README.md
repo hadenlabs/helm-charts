@@ -22,7 +22,7 @@
 
 
 
- [![Latest Release](https://img.shields.io/github/release/hadenlabs/action-pre-commit)](https://github.com/hadenlabs/action-pre-commit/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/lint-code)](https://github.com/hadenlabs/action-pre-commit/actions?workflow=lint-code) [![CI](https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/ci)](https://github.com/hadenlabs/action-pre-commit/actions?workflow=ci) [![Test](https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/test)](https://github.com/hadenlabs/action-pre-commit/actions?workflow=test) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
+ [![Latest Release](https://img.shields.io/github/release/hadenlabs/helm-charts)](https://github.com/hadenlabs/helm-charts/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/helm-charts/lint-code)](https://github.com/hadenlabs/helm-charts/actions?workflow=lint-code) [![CI](https://img.shields.io/github/workflow/status/hadenlabs/helm-charts/ci)](https://github.com/hadenlabs/helm-charts/actions?workflow=ci) [![Test](https://img.shields.io/github/workflow/status/hadenlabs/helm-charts/test)](https://github.com/hadenlabs/helm-charts/actions?workflow=test) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
 
 # helm-charts
 
