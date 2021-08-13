@@ -5,13 +5,13 @@
 #
 
 # Name of this project
-name: base-template
+name: helm-charts
 
 email:
   support: support@hadenlabs.com
 
 confluence:
-  space: BASE-TEMPLATE
+  space: HELM-CHARTS
   title: readme
 
 # Logo for this project
@@ -21,19 +21,22 @@ confluence:
 license: 'LGPL-3.0'
 
 # Canonical GitHub repo
-github_repo: hadenlabs/base-template
+github_repo: hadenlabs/helm-charts
 
 # Badges to display
 badges:
   - name: Latest Release
-    image: https://img.shields.io/github/release/hadenlabs/base-template
-    url: https://github.com/hadenlabs/base-template/releases
+    image: https://img.shields.io/github/release/hadenlabs/action-pre-commit
+    url: https://github.com/hadenlabs/action-pre-commit/releases
   - name: Lint
-    image: https://img.shields.io/github/workflow/status/hadenlabs/base-template/lint-code
-    url: https://github.com/hadenlabs/base-template/actions?workflow=lint-code
-  - name: pre-commit
-    image: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
-    url: https://github.com/pre-commit/pre-commit
+    image: https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/lint-code
+    url: https://github.com/hadenlabs/action-pre-commit/actions?workflow=lint-code
+  - name: CI
+    image: https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/ci
+    url: https://github.com/hadenlabs/action-pre-commit/actions?workflow=ci
+  - name: Test
+    image: https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/test
+    url: https://github.com/hadenlabs/action-pre-commit/actions?workflow=test
   - name: Conventional Commits
     image: https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow
     url: https://conventionalcommits.org
@@ -41,12 +44,7 @@ badges:
     image: https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735
     url: https://keepachangelog.com
 
+# Short description of this project
 description: |-
 
-  base-template for project
-
-  ### Replace name project to New Project
-
-  ```bash
-    agr 'base-template' 'new-project'
-  ```
+  helm-charts for project
