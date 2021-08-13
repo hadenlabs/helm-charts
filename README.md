@@ -12,27 +12,22 @@
 
   -->
 
+ 
 
 
 
+ <!-- Space: HELM-CHARTS --> 
 
- <!-- Space: BASE-TEMPLATE -->
- <!-- Title: readme -->
-
-
-
- [![Latest Release](https://img.shields.io/github/release/hadenlabs/base-template)](https://github.com/hadenlabs/base-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/base-template/lint-code)](https://github.com/hadenlabs/base-template/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
-
-# base-template
+ <!-- Title: readme --> 
 
 
-base-template for project
 
-### Replace name project to New Project
+ [![Latest Release](https://img.shields.io/github/release/hadenlabs/action-pre-commit)](https://github.com/hadenlabs/action-pre-commit/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/lint-code)](https://github.com/hadenlabs/action-pre-commit/actions?workflow=lint-code) [![CI](https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/ci)](https://github.com/hadenlabs/action-pre-commit/actions?workflow=ci) [![Test](https://img.shields.io/github/workflow/status/hadenlabs/action-pre-commit/test)](https://github.com/hadenlabs/action-pre-commit/actions?workflow=test) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
 
-```bash
-  agr 'base-template' 'new-project'
-```
+# helm-charts
+
+ 
+helm-charts for project 
 
 
 
@@ -65,13 +60,13 @@ base-template for project
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/hadenlabs/base-template/issues).
+File a GitHub [issue](https://github.com/hadenlabs/helm-charts/issues).
 
 ## Contributing
 
 ### Bug Reports & Feature Requests
 
-Please use the [issue tracker](https://github.com/hadenlabs/base-template/issues) to report any bugs or file feature requests.
+Please use the [issue tracker](https://github.com/hadenlabs/helm-charts/issues) to report any bugs or file feature requests.
 
 ### Development
 
@@ -126,6 +121,6 @@ The code and styles are licensed under the LGPL-3.0 license [See project license
 
 
 
-## Don't forget to 🌟 Star 🌟 the repo if you like base-template
+## Don't forget to 🌟 Star 🌟 the repo if you like helm-charts
 
-[Your feedback is appreciated](https://github.com/hadenlabs/base-template/issues)
+[Your feedback is appreciated](https://github.com/hadenlabs/helm-charts/issues)
